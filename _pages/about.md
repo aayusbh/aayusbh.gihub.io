@@ -13,12 +13,14 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # hopefully doesnot include a list of news items
+selected_papers: false # hopefully doesnot include a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to this corner of the internet! I'm Aayush Bhatta, a dedicated mechanical engineer and teaching assistant at Institute of Engineering, Tribhuvan University.
+I work as a teaching assistant at [DMAE](https://mech.pcampus.edu.np/), Tribhuvan University.
+If you have any questions, curiosities or would like to collaborate, please feel free to [contact me](aayushbhatta54@gmail.com)! 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
